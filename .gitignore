@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+package-lock.json
+personal.js
+.DS_Store
+test.py
+test.html
+template.html
+passage.html
+private_cdn.py
+.gitignorete
